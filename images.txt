@@ -1,1 +1,1 @@
-xprobe/xinference:v0.12.1
+eosphorosai/dbgpt:v0.5.8
