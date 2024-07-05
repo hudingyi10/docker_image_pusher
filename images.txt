@@ -1,1 +1,4 @@
-xprobe/xinference:v0.12.2.post1-cpu
+ubuntu/squid:latest
+langgenius/dify-sandbox:0.2.1
+langgenius/dify-web:0.6.12-fix1
+langgenius/dify-api:0.6.12-fix1
