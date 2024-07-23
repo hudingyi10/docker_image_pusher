@@ -1,2 +1,1 @@
-langgenius/dify-web:0.6.14
-langgenius/dify-api:0.6.14
+savatar101/omniparse:0.1
