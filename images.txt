@@ -1,3 +1,2 @@
-python:3.11-slim
-node:20-slim
-golang:1.19
+eosphorosai/dbgpt:latest
+mysql/mysql-server
