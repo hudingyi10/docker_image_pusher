@@ -1,2 +1,1 @@
 eosphorosai/dbgpt:latest
-mysql/mysql-server
