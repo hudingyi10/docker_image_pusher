@@ -1,1 +1,2 @@
-eosphorosai/dbgpt:v0.6.0
+langgenius/dify-api:0.15.3
+langgenius/dify-web:0.15.3
