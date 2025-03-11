@@ -1,1 +1,2 @@
-calciumion/new-api:latest
+node:16-alpine
+node:20-slim
