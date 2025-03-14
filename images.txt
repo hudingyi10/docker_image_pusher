@@ -1,6 +1,1 @@
-langfuse/langfuse-worker:3
-langfuse/langfuse:3
-clickhouse/clickhouse-server
-minio/minio
-redis:7
-postgres:latest
+xprobe/xinference:v1.3.1.post1-cpu
