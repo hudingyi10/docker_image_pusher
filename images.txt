@@ -1,2 +1,6 @@
-node:16-alpine
-node:20-slim
+langfuse/langfuse-worker:3
+langfuse/langfuse:3
+clickhouse/clickhouse-server
+minio/minio
+redis:7
+postgres:latest
