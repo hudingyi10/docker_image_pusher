@@ -1,1 +1,1 @@
-searxng/searxng:2025.3.19-40feede51
+docker.io/library/caddy:2-alpine
