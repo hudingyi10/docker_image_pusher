@@ -1,1 +1,1 @@
-xprobe/xinference:v1.3.1-cpu
+searxng/searxng:2025.3.19-40feede51
