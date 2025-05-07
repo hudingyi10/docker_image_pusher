@@ -1,1 +1,1 @@
-redis:7-alpine
+nvcr.io/nvidia/pytorch:24.01-py3
