@@ -1,1 +1,1 @@
-golang:1.22-alpine
+guiji2025/heygem.ai
