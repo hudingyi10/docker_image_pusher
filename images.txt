@@ -1,1 +1,1 @@
-docker/dockerfile:1
+node:20
