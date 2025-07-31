@@ -1,1 +1,1 @@
-alpine:latest
+openeuler/openeuler:24.03
