@@ -1,1 +1,2 @@
-openeuler/openeuler:24.03
+docker.m.daocloud.io/library/node:20-alpine
+docker.m.daocloud.io/library/maven:3.8-openjdk-17
