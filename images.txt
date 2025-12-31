@@ -1,1 +1,1 @@
-tensorflow/tensorflow:2.15.0.post1-gpu-jupyter
+gpustack/gpustack:v2.0.1
