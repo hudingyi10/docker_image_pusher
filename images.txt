@@ -1,3 +1,2 @@
-quay.io/coreos/etcd:v3.5.25
-minio/minio:RELEASE.2024-05-28T17-19-04Z
-milvusdb/milvus:v2.6.11
+node:22-bookworm@sha256:b501c082306a4f528bc4038cbf2fbb58095d583d0419a259b2114b5ac53d12e9
+node:22-bookworm-slim@sha256:9c2c405e3ff9b9afb2873232d24bb06367d649aa3e6259cbe314da59578e81e9
