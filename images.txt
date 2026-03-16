@@ -1,2 +1,1 @@
-node:24-bookworm
-node:24-bookworm-slim
+ghcr.io/openclaw/openclaw:2026.3.13-1-amd64
