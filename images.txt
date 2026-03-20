@@ -1,1 +1,1 @@
-ghcr.io/openclaw/openclaw:2026.3.13-1-amd64
+infiniflow/infinity:v0.7.0-dev2
