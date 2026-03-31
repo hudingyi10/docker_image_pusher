@@ -1,1 +1,1 @@
-langgenius/dify-plugin-daemon:0.4.1-local
+svcvit/dify-sandbox-py:0.1.4
