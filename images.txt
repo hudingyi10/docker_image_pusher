@@ -1,1 +1,1 @@
-langgenius/dify-sandbox:0.2.14
+langgenius/dify-agentbox:latest
