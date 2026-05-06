@@ -1,1 +1,1 @@
-langgenius/dify-agentbox:latest
+ghcr.io/hkuds/lightrag:latest
